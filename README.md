@@ -8,7 +8,7 @@ The effectiveness of medication depends on the individual patient characteristic
 
 # Model 
 
-Our stratgy was tyring to build and apply suvival analysis model instead of using classification and not focus on getting right labels. We tried and applied many different threshold but the threshold as 0.24 was the best results. The model wasn't good enought to get correct result and we had 6th placed out of 22 teams.
+For our feature engineering, our stratgy was tyring to build and apply suvival analysis model instead of using classification and not focus on getting right labels. We also tried and applied many different threshold but the threshold as 0.24 was the best results. The model wasn't good enought to get correct result and we had 6th placed out of 22 teams.
 
 
 # Training Data - These are just for your understanding what we worked on during hackaton. I won't include train and test files. 
