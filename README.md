@@ -37,5 +37,5 @@ For our feature engineering, our stratgy was tyring to build and apply suvival a
 -The best way to prolong survival in the test patient population is the answer. (It could be T=1 or T=0.)
 -Please indicate the submitted value as (1/0) with or without treatment for each patient.
 
-# Result of Hackathon
-- According the score board before the last day of Hackaton, we were the 6th out of 22 teams. Since they give award only top 4, we didn't get awarded. It was great opportunity to learn about not just statistical models and feature engineerings but also teamwork and time management in short period of time to finish the work.   
+# Result of the Hackathon
+- According the score board before the last day of Hackaton, we were scored 260 correct data set out of 268 which was the 6th place out of 22 teams. Since they give award only top 4, we didn't get awarded. It was great opportunity to learn about not just statistical models and feature engineerings but also teamwork and time management in short period of time to finish the work.   
